@@ -1,0 +1,10 @@
+@import 'colors';
+
+.header{
+    background-color: $green-light;
+    height: 50px;
+
+    &__title{
+        padding: 10px;
+    }
+}
